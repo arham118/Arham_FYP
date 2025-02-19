@@ -47,4 +47,3 @@ Currently, Daraz treats all sellers as a single group, which limits its ability 
 - **Generate Insights and Recommendations** – Provide data-driven strategies for seller engagement and sales growth.  
 - **Finalize Documentation and Complete the Project Report** – Ensure all findings and methodologies are clearly documented.  
 
-## Repository Structure  
